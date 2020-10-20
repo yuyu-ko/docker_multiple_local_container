@@ -33,8 +33,8 @@ This is the structure of this docker app: Use Docker Compose can connect two sep
 Here is the way to run
 ![image](https://user-images.githubusercontent.com/46542567/96538410-77c07d80-1266-11eb-960b-dbbdfb2af9b5.png)
 
-docker build .
-docker run redis
-docker-compose up --build
-docker-compose up
+docker build . <br>
+docker run redis <br>
+docker-compose up --build <br>
+docker-compose up <br>
 
